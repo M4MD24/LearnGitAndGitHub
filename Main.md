@@ -49,3 +49,5 @@
 `git push`
 
 `git push origin tag-name`
+
+`git pull`
