@@ -54,11 +54,15 @@
 
 `git pull`
 
+`git remote`
+
 `git remote -v`
 
 `git remote remote-name repository-url`
 
 `git push remote-name`
+
+`git remote rename old-remote-name new-remote-name`
 
 `git remote rm remote-name`
 
