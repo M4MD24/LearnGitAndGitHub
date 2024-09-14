@@ -52,6 +52,8 @@
 
 `git push origin tag-name`
 
+`git fetch`
+
 `git pull`
 
 `git remote`
