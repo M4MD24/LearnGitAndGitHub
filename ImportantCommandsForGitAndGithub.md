@@ -1,4 +1,4 @@
-# Important Commands for Git
+# Important Commands for Git and GitHub
 
 `ls`
 
