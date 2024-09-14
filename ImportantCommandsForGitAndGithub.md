@@ -1,5 +1,13 @@
 # Important Commands for Git and GitHub
 
+`git config --global user.name your-username`
+
+`git config --global user.email your-email`
+
+`git config --global user.name`
+
+`git config --global user.email`
+
 `ls`
 
 `ls -Force`
@@ -79,3 +87,5 @@
 `git rebase --continue`
 
 `git rebase --skip`
+
+`git branch --v`
