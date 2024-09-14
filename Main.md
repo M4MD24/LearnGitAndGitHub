@@ -45,3 +45,5 @@
 `git tag -d tag-name`
 
 `git push origin tag-name`
+
+`git clone repository-url`
