@@ -19,3 +19,17 @@
 `git log --oneline`
 
 `git log --graph`
+
+`git branch`
+
+`git branch branch-name`
+
+`git checkout branch-name`
+
+`git checkout branch-name`
+
+`git branch -m target-branch-name modified-branch-name`
+
+`git branch -d branch-name`
+
+`git checkout another-branch-name ; git branch -d old-branch-name`
