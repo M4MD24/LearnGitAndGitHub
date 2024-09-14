@@ -13,3 +13,5 @@
 `git log`
 
 `git commit --amend -m "Comment"`
+
+`git restore --staged .`
