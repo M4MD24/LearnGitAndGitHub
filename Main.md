@@ -15,3 +15,7 @@
 `git commit --amend -m "Comment"`
 
 `git restore --staged .`
+
+`git log --oneline`
+
+`git log --graph`
