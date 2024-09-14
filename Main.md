@@ -35,3 +35,11 @@
 `git merge target-branch-name`
 
 `open file-name` **When conflict**
+
+`git tag`
+
+`git tag tag-name`
+
+`git show tag-name`
+
+`git tag -d tag-name`
