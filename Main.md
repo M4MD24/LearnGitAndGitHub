@@ -51,3 +51,7 @@
 `git push origin tag-name`
 
 `git pull`
+
+`git remote -v`
+
+`git remote remote-name repository-url`
