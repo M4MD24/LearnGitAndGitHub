@@ -20,6 +20,8 @@
 
 `git log --graph`
 
+`git log --oneline --graph`
+
 `git branch`
 
 `git branch branch-name`
@@ -34,7 +36,7 @@
 
 `git merge target-branch-name`
 
-`open file-name` **When conflict**
+`notepad file-name`
 
 `git tag`
 
@@ -59,3 +61,15 @@
 `git push remote-name`
 
 `git remote rm remote-name`
+
+`git rebase base-branch-name`
+
+`git rebase base-branch-name from-branch-name`
+
+`git rebase --onto base-branch-name from-branch-name to-branch-name`
+
+`git rebase --abort`
+
+`git rebase --continue`
+
+`git rebase --skip`
