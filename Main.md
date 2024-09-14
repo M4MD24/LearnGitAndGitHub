@@ -55,3 +55,7 @@
 `git remote -v`
 
 `git remote remote-name repository-url`
+
+`git push remote-name`
+
+`git remote rm remote-name`
