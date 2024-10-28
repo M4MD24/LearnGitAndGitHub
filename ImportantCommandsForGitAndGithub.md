@@ -89,3 +89,12 @@
 `git rebase --skip`
 
 `git branch --v`
+
+---
+
+# Resources
+
+## Websites
+
+- [Satr](https://satr.codes)
+- [Youtube](https://youtube.com)
