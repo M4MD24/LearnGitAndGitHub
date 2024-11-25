@@ -1,94 +1,106 @@
 # Important Commands for Git and GitHub
 
-`git config --global user.name your-username`
+## config
 
-`git config --global user.email your-email`
+- `git config --global user.name your-username`
+- `git config --global user.email your-email`
+- `git config --global user.name`
+- `git config --global user.email`
 
-`git config --global user.name`
+## ls
 
-`git config --global user.email`
+- `ls`
+- `ls -Force`
 
-`ls`
+## status
 
-`ls -Force`
+- `git status`
 
-`git status`
+## add
 
-`git add .`
+- `git add .`
 
-`git commit -m "Comment"`
+## commit
 
-`git log`
+- `git commit -m "Comment"`
+- `git commit --amend -m "Comment"`
 
-`git commit --amend -m "Comment"`
+## log
 
-`git restore --staged .`
+- `git log`
+- `git log --oneline`
+- `git log --graph`
+- `git log --oneline --graph`
 
-`git log --oneline`
+## restore
 
-`git log --graph`
+- `git restore --staged .`
 
-`git log --oneline --graph`
+## branch
 
-`git branch`
+- `git branch`
+- `git branch branch-name`
+- `git branch -m target-branch-name modified-branch-name`
+- `git branch -d branch-name`
+- `git branch --v`
 
-`git branch branch-name`
+## checkout
 
-`git checkout branch-name`
+- `git checkout branch-name`
+- `git checkout another-branch-name ; git branch -d old-branch-name`
 
-`git branch -m target-branch-name modified-branch-name`
+## merge
 
-`git branch -d branch-name`
+- `git merge target-branch-name`
 
-`git checkout another-branch-name ; git branch -d old-branch-name`
+## notepad
 
-`git merge target-branch-name`
+- `notepad file-name`
 
-`notepad file-name`
+## tag
 
-`git tag`
+- `git tag`
+- `git tag tag-name`
+- `git tag -d tag-name`
 
-`git tag tag-name`
+## show
 
-`git show tag-name`
+- `git show tag-name`
 
-`git tag -d tag-name`
+## clone
 
-`git clone repository-url`
+- `git clone repository-url`
 
-`git push`
+## push
 
-`git push origin tag-name`
+- `git push`
+- `git push origin tag-name`
+- `git push remote-name`
 
-`git fetch`
+## fetch
 
-`git pull`
+- `git fetch`
 
-`git remote`
+## pull
 
-`git remote -v`
+- `git pull`
 
-`git remote remote-name repository-url`
+## remote
 
-`git push remote-name`
+- `git remote`
+- `git remote -v`
+- `git remote remote-name repository-url`
+- `git remote rename old-remote-name new-remote-name`
+- `git remote rm remote-name`
 
-`git remote rename old-remote-name new-remote-name`
+## rebase
 
-`git remote rm remote-name`
-
-`git rebase base-branch-name`
-
-`git rebase base-branch-name from-branch-name`
-
-`git rebase --onto base-branch-name from-branch-name to-branch-name`
-
-`git rebase --abort`
-
-`git rebase --continue`
-
-`git rebase --skip`
-
-`git branch --v`
+- `git rebase base-branch-name`
+- `git rebase base-branch-name from-branch-name`
+- `git rebase --onto base-branch-name from-branch-name to-branch-name`
+- `git rebase --abort`
+- `git rebase --continue`
+- `git rebase --skip`
 
 ---
 
