@@ -1,0 +1,3 @@
+# restore
+
+- `git restore --staged .`

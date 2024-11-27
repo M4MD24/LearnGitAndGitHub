@@ -27,29 +27,47 @@
 
 ---
 
-## 1. [<span style="color: #f14e32;">Learn</span>](ImportantCommandsForGitAndGithub.md)
+## 1[<span style="color: #f14e32;">Learn</span>](src/_1_learn)
 
 - <u style="text-decoration-color: #f14e32;">Learn Examples of Concepts</u><span style="color: #f14e32;">.</span>
 
-1. config
-2. ls
-3. status
-4. add
-5. commit
-6. log
-7. restore
-8. branch
-9. checkout
-10. merge
-11. notepad
-12. tag
-13. show
-14. clone
-15. push
-16. fetch
-17. pull
-18. remote
-19. rebase
+1. [<span style="color: #f14e32;">config</span>](src/_1_learn/_1_1_config)
+
+2. [<span style="color: #f14e32;">ls</span>](src/_1_learn/_1_2_ls)
+
+3. [<span style="color: #f14e32;">status</span>](src/_1_learn/_1_3_status)
+
+4. [<span style="color: #f14e32;">add</span>](src/_1_learn/_1_4_add)
+
+5. [<span style="color: #f14e32;">commit</span>](src/_1_learn/_1_5_commit)
+
+6. [<span style="color: #f14e32;">log</span>](src/_1_learn/_1_6_log)
+
+7. [<span style="color: #f14e32;">restore</span>](src/_1_learn/_1_7_restore)
+
+8. [<span style="color: #f14e32;">branch</span>](src/_1_learn/_1_8_branch)
+
+9. [<span style="color: #f14e32;">checkout</span>](src/_1_learn/_1_9_checkout)
+
+10. [<span style="color: #f14e32;">merge</span>](src/_1_learn/_1_10_merge)
+
+11. [<span style="color: #f14e32;">notepad</span>](src/_1_learn/_1_11_notepad)
+
+12. [<span style="color: #f14e32;">tag</span>](src/_1_learn/_1_12_tag)
+
+13. [<span style="color: #f14e32;">show</span>](src/_1_learn/_1_13_show)
+
+14. [<span style="color: #f14e32;">clone</span>](src/_1_learn/_1_14_clone)
+
+15. [<span style="color: #f14e32;">push</span>](src/_1_learn/_1_15_push)
+
+16. [<span style="color: #f14e32;">fetch</span>](src/_1_learn/_1_16_fetch)
+
+17. [<span style="color: #f14e32;">pull</span>](src/_1_learn/_1_17_pull)
+
+18. [<span style="color: #f14e32;">remote</span>](src/_1_learn/_1_18_remote)
+
+19. [<span style="color: #f14e32;">rebase</span>](src/_1_learn/_1_19_rebase)
 
 ---
 
