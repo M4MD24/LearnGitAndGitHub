@@ -27,7 +27,7 @@
 
 ---
 
-## 1[<span style="color: #f14e32;">Learn</span>](src/_1_learn)
+## 1. [<span style="color: #f14e32;">Learn</span>](src/_1_learn)
 
 - <u style="text-decoration-color: #f14e32;">Learn Examples of Concepts</u><span style="color: #f14e32;">.</span>
 
